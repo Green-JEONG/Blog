@@ -5,18 +5,18 @@
 
 ![제주도 이미지](img/a.jpeg)
 
-₩₩₩python
+```python
 print('hello')
-₩₩₩
+```
 
-₩₩₩py
+```py
 print('hello')
-₩₩₩
+```
 
-₩₩₩javascript
+```javascript
 console.log('hello')
-₩₩₩
+```
 
-₩₩₩js
+```js
 console.log('hello')
-₩₩₩
+```
