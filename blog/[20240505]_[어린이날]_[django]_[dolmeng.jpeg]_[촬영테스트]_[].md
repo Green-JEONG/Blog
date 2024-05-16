@@ -3,7 +3,7 @@
 * hello world 1
 * hello world 2
 
-![제주도 이미지](img/a.jpeg)
+![돌멩이 이미지](img/dolmeng.jpeg)
 
 ```python
 print('hello')
